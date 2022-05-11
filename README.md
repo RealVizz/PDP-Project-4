@@ -1,4 +1,4 @@
-# Project 4 - Text-Based Adventure Game (Dungeon Game)
+# Text-Based Adventure Game (Dungeon Game)
 
 It is a program that simulates a typical scenario in an Cave and Treasure Game, where a monsters are reside and it can be killed or can kill..
 
